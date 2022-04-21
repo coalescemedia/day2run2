@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5e1DbDB81E174634A370257B34128570E14F5fe6",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5e1DbDB81E174634A370257B34128570E14F5fe6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Baseball Lineup NFTs",
+  "SYMBOL": "BLNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 3.5,
+  "GAS_LIMIT": 5000000000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baseball-lineup-nfts",
+  "SHOW_BACKGROUND": true
+}
